@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentagerman02unkngoog_0440.png"; bbox 0 0 1465 1788; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 251 188 1109 233">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 251 188 1109 233">
+     <span class='ocr_line' id='line_1_1' title="bbox 251 188 1109 233; baseline -0.034 0"><span class='ocrx_word' id='word_1_1' title='bbox 251 205 368 233; x_wconf 59' lang='lat' dir='ltr'><strong>masma-r.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 380 211 387 228; x_wconf 88' lang='lat'><em>1</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1017 189 1069 206; x_wconf 78' lang='grc' dir='ltr'><strong>τΑΒ.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1081 188 1109 206; x_wconf 87' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 230 272 1176 1520">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 230 272 1176 1520">
+     <span class='ocr_line' id='line_1_2' title="bbox 230 272 1176 1520; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 230 272 1176 1520; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 545 1535 903 1566">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 545 1535 903 1566">
+     <span class='ocr_line' id='line_1_3' title="bbox 545 1535 903 1566; baseline -0.034 1"><span class='ocrx_word' id='word_1_6' title='bbox 545 1543 663 1566; x_wconf 70' lang='lat' dir='ltr'><strong>›CODEX</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 680 1537 833 1562; x_wconf 83' lang='lat' dir='ltr'>LVCENSIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 850 1535 903 1556; x_wconf 76' lang='lat'><strong>490.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
